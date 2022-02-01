@@ -18,7 +18,7 @@ status-website:
   introMessage: Esta página muestra información en **vivo** sobre el estado de las aplicaciones.
   navbar:
     - title: Status
-      href: /
+      href: /uptime
    
 
 # Upptime also supports notifications, assigning issues, and more
