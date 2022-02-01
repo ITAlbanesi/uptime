@@ -5,6 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: COG
     url: http://cogpub.albanesi.com.ar:8080/COG
+  - name: ENERGIA
+    url: http://cogpub.albanesi.com.ar:8080/EENEW
+  - name: GAS
+    url: http://gas.albanesi.com.ar/login
   
 
 status-website:
