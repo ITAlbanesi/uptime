@@ -4,10 +4,10 @@
     "url": "http://cogpub.albanesi.com.ar:8080/COG",
     "icon": "https://favicons.githubusercontent.com/cogpub.albanesi.com.ar",
     "slug": "cog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.71%",
     "time": 2118,
@@ -16,6 +16,7 @@
     "timeMonth": 2118,
     "timeYear": 2118,
     "dailyMinutesDown": {
+      "2022-02-11": 1,
       "2022-02-07": 40
     }
   },
@@ -24,18 +25,19 @@
     "url": "http://cogpub.albanesi.com.ar:8080/EENEW",
     "icon": "https://favicons.githubusercontent.com/cogpub.albanesi.com.ar",
     "slug": "energia",
-    "status": "up",
-    "uptime": "99.71%",
+    "status": "down",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 1947,
     "timeDay": 1086,
     "timeWeek": 2023,
     "timeMonth": 1947,
     "timeYear": 1947,
     "dailyMinutesDown": {
+      "2022-02-11": 0,
       "2022-02-07": 40
     }
   },
