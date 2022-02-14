@@ -9,6 +9,8 @@ sites:
     url: http://cogpub.albanesi.com.ar:8080/EENEW
   - name: Conectividad API Cammesa
     url: http://cogpub.albanesi.com.ar:8080/PUBAPI/API/ws.asmx/ExecuteTask?ID=F9AC1E99-6961-48FD-960D-2D098FA1FD57&Desde=2021-07-01T00:00:00&Hasta=2022-06-01T00:00:00
+  - name: API Cammesa
+    url: https://api.cammesa.com/pub-svc/public/findDocumentosByNemoRango?fechadesde=2021-07-01T00:00:00&fechahasta=2021-07-01T00:00:00&nemo=PROGRAMACION_DIARIA
   - name: GAS
     url: http://gas.albanesi.com.ar/login
   
