@@ -1,7 +1,7 @@
 url: http://cogpub.albanesi.com.ar:8080/PUBAPI/API/ws.asmx/ExecuteTask?ID=F9AC1E99-6961-48FD-960D-2D098FA1FD57&Desde=2021-07-01T00:00:00&Hasta=2022-06-01T00:00:00
 status: up
 code: 200
-responseTime: 366
-lastUpdated: 2022-03-29T23:18:26.118Z
+responseTime: 318
+lastUpdated: 2022-03-30T23:17:54.214Z
 startTime: Mon Feb 14 2022 12:12:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
