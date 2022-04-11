@@ -1,7 +1,7 @@
 url: https://api.cammesa.com/pub-svc/public/findDocumentosByNemoRango?fechadesde=2021-07-01T00:00:00&fechahasta=2021-07-01T00:00:00&nemo=PROGRAMACION_DIARIA
 status: up
 code: 200
-responseTime: 18342
-lastUpdated: 2022-04-11T11:59:50.196Z
+responseTime: 884
+lastUpdated: 2022-04-11T23:19:00.026Z
 startTime: Mon Feb 14 2022 12:58:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
