@@ -8,7 +8,7 @@ sites:
   - name: CE 
     url: https://app.albanesi.com.ar/CE     
   - name: Gas
-    url: https://app.albanesi.com.ar/Gas/Login
+    url: https://app.albanesi.com.ar/Gas
   - name: API Cammesa / Conectividad local
     url: http://cogpub.albanesi.com.ar:8080/PUBAPI/API/ws.asmx/ExecuteTask?ID=F9AC1E99-6961-48FD-960D-2D098FA1FD57&Desde=2021-07-01T00:00:00&Hasta=2022-06-01T00:00:00
   - name: API Cammesa / Origen de datos
