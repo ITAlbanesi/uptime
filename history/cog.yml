@@ -1,7 +1,7 @@
 url: https://app.albanesi.com.ar/COG
-status: up
-code: 200
-responseTime: 3979
-lastUpdated: 2023-01-30T20:13:19.685Z
+status: down
+code: 503
+responseTime: 611
+lastUpdated: 2023-01-30T20:27:19.617Z
 startTime: Tue Feb 01 2022 13:21:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
