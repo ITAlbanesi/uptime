@@ -5,18 +5,22 @@ repo: uptime # The name of this repository
 sites:
   - name: COG 
     url: https://app.albanesi.com.ar/COG
+    maxResponseTime: 5000
     __dangerous__body_down: "Imposible acceder a los datos"
   - name: CE 
     url: https://app.albanesi.com.ar/CE   
+    maxResponseTime: 5000
     __dangerous__body_down: "Imposible acceder a los datos"
   - name: Gas
     url: https://app.albanesi.com.ar/Gas/assets/img/backgrounds/1.jpg
+    maxResponseTime: 5000
   - name: API Cammesa / Conectividad local
     url: http://cogpub.albanesi.com.ar:8080/PUBAPI/API/ws.asmx/ExecuteTask?ID=F9AC1E99-6961-48FD-960D-2D098FA1FD57&Desde=2021-07-01T00:00:00&Hasta=2022-06-01T00:00:00
   - name: API Cammesa / Origen de datos
     url: https://api.cammesa.com/pub-svc/public/findDocumentosByNemoRango?fechadesde=2021-07-01T00:00:00&fechahasta=2021-07-01T00:00:00&nemo=PROGRAMACION_DIARIA
   - name: Publicador SOTR
     url: http://sotr.albanesi.com.ar/Desktop/DesktopLogin.aspx
+    maxResponseTime: 5000
   # - name: GAS
   #   url: http://gas.albanesi.com.ar/login
 
